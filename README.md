@@ -45,7 +45,3 @@ Voxhoard was built thresholds-first: success targets were written before the cod
 - **Routing:** 100% of 40 test items went to the right agent (target 90%+)
 - **Citations:** every answer on the 12 scorable questions cited a real source
 - **Ingest cost:** about $0.02 per item
-
-## About
-
-Capstone project for the Forward Deployed Engineering course. Built with the AAMAD (AI-Assisted Multi-Agent Application Development) framework.
